@@ -1,0 +1,2 @@
+e9d6b8a030583ad060ced47a9204396f88ad546634c356352007bca79655225a  gongqingchun-merchant-v1.0.0.apk
+9617d79f9a5b2a0a49cf8b99d0c28bf0279b35ec29dfe3986db0324e6bbdeb20  gongqingchun-student-v1.0.0.apk
